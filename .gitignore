@@ -1,0 +1,7 @@
+# IntelliJ
+out/
+venv/
+__pycache__
+.idea/
+*.log
+*.ini
