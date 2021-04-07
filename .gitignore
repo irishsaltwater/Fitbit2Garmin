@@ -5,3 +5,4 @@ __pycache__
 .idea/
 *.log
 *.ini
+!example_config.ini
